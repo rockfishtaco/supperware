@@ -1,0 +1,14 @@
+{
+  "name": "supperware",
+  "version": "1.0.0",
+  "description": "a food truck",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
